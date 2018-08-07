@@ -66,4 +66,3 @@ jupyter-lab
 ```
 
 Once the project notebook has been opened, you can simply click the "Run->" button in the main menu to execute the python program that opens the Unity Reacher playing field and starts to train 20 agents solve this environment.
-
